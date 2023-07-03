@@ -11,7 +11,7 @@ blogs = [
 
 {"title":"Cyan team reagerar på reddit cows",
 "image":"redit cows reagering.jpg",
-"url":"e"},
+"url":"https://www.youtube.com/watch?v=ZDe5jXtQ9mo"},
 
 ]
 
