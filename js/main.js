@@ -9,7 +9,7 @@ blogs = [
 "image":"cyan kampanjfilm.webp",
 "url":"https://www.youtube.com/watch?v=BR1pKZsegvQ"},
 
-{"title":"Cyan team reagerar på reddit cows",
+{"title":"Cyan team reagerar på reddit kaos",
 "image":"redit cows reagering.jpg",
 "url":"https://www.youtube.com/watch?v=ZDe5jXtQ9mo"},
 
