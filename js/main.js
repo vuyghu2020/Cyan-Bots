@@ -3,17 +3,34 @@ console.clear()
 const ed = document.createElement("div")
 ed.id = "blog"
 
+
+
+
+
+
+
+
+
+
+
+
 blogs = [
+    {"title":"Kampanjfilm för Cyan, Spring green, påsk gröna eller vad fan vi nu heter.",
+    "image":"cyan kampanjfilm.webp",
+    "url":"https://www.youtube.com/watch?v=BR1pKZsegvQ"},
+    
+    {"title":"Cyan team reagerar på reddit kaos",
+    "image":"redit cows reagering.jpg",
+    "url":"https://www.youtube.com/watch?v=ZDe5jXtQ9mo"}
+    ]
 
-{"title":"Kampanjfilm för Cyan, Spring green, påsk gröna eller vad fan vi nu heter.",
-"image":"cyan kampanjfilm.webp",
-"url":"https://www.youtube.com/watch?v=BR1pKZsegvQ"},
 
-{"title":"Cyan team reagerar på reddit kaos",
-"image":"redit cows reagering.jpg",
-"url":"https://www.youtube.com/watch?v=ZDe5jXtQ9mo"},
 
-]
+
+
+
+
+
 
 
 
@@ -52,3 +69,4 @@ blogs.forEach(blog => {
 
 
 document.body.appendChild(ed)
+

@@ -18,7 +18,9 @@ discord_button.style.bottom = 10;
 discord_button.style.left = 10;
 discord_button.style.cursor = "pointer"
 
-
+/*function f() {
+    cradit_text.innerText = "lol"
+}*/
 
 // youtube button
 youtube_button = document.createElement("img")
@@ -42,9 +44,10 @@ socials_div.appendChild(discord_button)
 socials_div.appendChild(youtube_button)
 
 
-cradit_text = document.createElement("p");
+const cradit_text = document.createElement("p");
 
 cradit_text.innerText = "Created by vuyghu2020"
+//cradit_text.addEventListener("click", f)
 cradit_text.style.width = "154px"
 cradit_text.style.position = "fixed"
 
